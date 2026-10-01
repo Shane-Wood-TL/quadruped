@@ -1,0 +1,3 @@
+[submodule "drivers/ODESC_Driver"]
+	path = drivers/ODESC_Driver
+	url = https://github.com/Shane-Wood-TL/ODESC_Driver.git
